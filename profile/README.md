@@ -1,10 +1,21 @@
-# CALL-E
+<p align="center">
+  <a href="https://www.heycall-e.com/">
+    <img src="./assets/call-e-mark.svg" alt="CALL-E" width="96">
+  </a>
+</p>
 
-**CALL-E helps AI agents get phone work done.**
+<h1 align="center">CALL-E</h1>
 
-Describe the phone task you need completed. CALL-E can plan and run outbound calls, adapt during the conversation, and return structured results.
+<p align="center"><strong>CALL-E helps AI agents get phone work done.</strong></p>
 
-[Get started](https://www.heycall-e.com/) · [Developer docs](https://docs.heycall-e.com/) · [Explore community work](https://github.com/CALLE-AI/awesome-phone-call-agents) · [Join Discord](https://discord.gg/6AbXUzUV8w)
+<p align="center">Describe the phone task you need completed. CALL-E can plan and run outbound calls, adapt during the conversation, and return structured results.</p>
+
+<p align="center">
+  <a href="https://www.heycall-e.com/">Get started</a> ·
+  <a href="https://docs.heycall-e.com/">Developer docs</a> ·
+  <a href="https://github.com/CALLE-AI/awesome-phone-call-agents">Explore community work</a> ·
+  <a href="https://discord.gg/6AbXUzUV8w">Join Discord</a>
+</p>
 
 ## Start here
 
