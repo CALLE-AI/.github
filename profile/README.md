@@ -21,9 +21,9 @@
 
 | I want to... | Start here |
 | --- | --- |
-| Use CALL-E with Codex, Claude Code, Cursor, OpenClaw, MCP, SDKs, or APIs | [`call-e-integrations`](https://github.com/CALLE-AI/call-e-integrations) |
+| Use CALL-E with Codex, Claude Code, Cursor, OpenClaw, MCP, SDKs, or APIs | [call-e-integrations](https://github.com/CALLE-AI/call-e-integrations) |
 | Build with the CALL-E Developer API | [Developer docs](https://docs.heycall-e.com/) |
-| Explore phone-call skills, apps, plugins, examples, and safety patterns | [`awesome-phone-call-agents`](https://github.com/CALLE-AI/awesome-phone-call-agents) |
+| Explore phone-call skills, apps, plugins, examples, and safety patterns | [awesome-phone-call-agents](https://github.com/CALLE-AI/awesome-phone-call-agents) |
 
 ## Explore community projects
 
