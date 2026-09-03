@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://www.heycall-e.com/">Get started</a> ·
   <a href="https://docs.heycall-e.com/">Developer docs</a> ·
-  <a href="https://github.com/CALLE-AI/awesome-phone-call-agents">Explore community work</a> ·
+  <a href="https://calle-ai.github.io/community-cases/">Browse community cases</a> ·
   <a href="https://discord.gg/6AbXUzUV8w">Join Discord</a>
 </p>
 
@@ -27,9 +27,11 @@
 
 ## Explore community projects
 
-Complete community apps remain in their authors' repositories. [`awesome-phone-call-agents`](https://github.com/CALLE-AI/awesome-phone-call-agents) is the discovery hub for reusable phone-call workflows and external projects.
+See the [CALL-E Community Cases prototype](https://calle-ai.github.io/community-cases/) for an example that shows the phone task, test status, reusable material, and where to start.
 
-Current examples include:
+Complete community apps remain in their authors' repositories. [`awesome-phone-call-agents`](https://github.com/CALLE-AI/awesome-phone-call-agents) is the broader directory for community skills, apps, plugins, workflows, safety patterns, and submissions.
+
+Other community projects include:
 
 - [CallParity](https://github.com/ruddro-roy/callparity): a two-call operations workbench for comparing claims and surfacing contradictions.
 - [CallmeMaybe](https://github.com/jongan69/callmemaybe): policy-gated phone workflows for Shopify order exceptions.
@@ -42,6 +44,7 @@ Current examples include:
 | Repository | Purpose |
 | --- | --- |
 | [`call-e-integrations`](https://github.com/CALLE-AI/call-e-integrations) | Agent integrations, CLI, MCP, SDKs, API guidance, and runnable integration examples |
+| [`community-cases`](https://github.com/CALLE-AI/community-cases) | Early prototype for presenting reusable phone-task cases |
 | [`awesome-phone-call-agents`](https://github.com/CALLE-AI/awesome-phone-call-agents) | Community skills, apps, workflows, templates, and safety patterns |
 | [`calle-docs`](https://github.com/CALLE-AI/calle-docs) | Open-source source files for the official developer documentation |
 
