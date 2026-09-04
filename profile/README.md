@@ -31,12 +31,6 @@ See the [CALL-E Community Cases prototype](https://calle-ai.github.io/community-
 
 Complete community apps remain in their authors' repositories. [`awesome-phone-call-agents`](https://github.com/CALLE-AI/awesome-phone-call-agents) is the broader directory for community skills, apps, plugins, workflows, safety patterns, and submissions.
 
-Other community projects include:
-
-- [CallParity](https://github.com/ruddro-roy/callparity): a two-call operations workbench for comparing claims and surfacing contradictions.
-- [CallmeMaybe](https://github.com/jongan69/callmemaybe): policy-gated phone workflows for Shopify order exceptions.
-- [Later, Me.](https://github.com/shirosenagi-design/later-me): a Windows app for scheduling a phone call to your future self.
-
 [Browse all community work](https://github.com/CALLE-AI/awesome-phone-call-agents#resource-list) · [Share a project or workflow](https://github.com/CALLE-AI/awesome-phone-call-agents/issues/new?template=workflow_submission.yml)
 
 ## Main repositories
